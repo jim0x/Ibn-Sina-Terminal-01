@@ -11,3 +11,4 @@
 * HTML, CSS, JavaScript (অনুমিত)
 
 ## লাইভ ডেম
+https://jim0x.github.io/Ibn-Sina-Terminal-01/
